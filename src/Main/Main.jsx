@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import "./Main.css";
-import { assets } from "../assets/Assets";
+import { assets } from "../assets/assets";
 import { context } from "../context/context";
 
 function Main() {
